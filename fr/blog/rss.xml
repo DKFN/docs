@@ -4,9 +4,16 @@
         <title>nanos world Blog</title>
         <link>https://docs.nanos.world/fr/blog</link>
         <description>nanos world Blog</description>
-        <lastBuildDate>Wed, 01 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Oct 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sandbox Improvements]]></title>
+            <link>https://docs.nanos.world/fr/blog/sandbox-improvements</link>
+            <guid>sandbox-improvements</guid>
+            <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lot's of improvements on Sandbox game-mode has been made in the past month, here's the highlights!]]></description>
+        </item>
         <item>
             <title><![CDATA[Nanos World arrive en Alpha!]]></title>
             <link>https://docs.nanos.world/fr/blog/Alpha</link>
